@@ -59,9 +59,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/f0056f55-096d-4797-95fc-702ab4be04e8)
+![image](https://github.com/user-attachments/assets/87abf41b-0b74-4d5b-b897-5fb8db6ea08c)
+![image](https://github.com/user-attachments/assets/7aa91d1c-b04b-4c62-88b7-292a603187d4)
+![image](https://github.com/user-attachments/assets/d8d67646-662e-425b-a161-7e4357e13268)
+![image](https://github.com/user-attachments/assets/a538b14d-eaa8-4428-bec6-c6e02777eca8)
 
-### Name: 
-### Register Number:
+
+### Name: Syed Abu Hanifa
+### Register Number: 24009356
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
